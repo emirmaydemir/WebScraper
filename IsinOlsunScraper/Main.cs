@@ -37,14 +37,39 @@ namespace IsinOlsunScraper
 
             var options = new ChromeOptions();
             options.AddArgument("--start-maximized");
-            // options.AddArgument("--headless=new");
+            options.AddArgument("--headless");
+            options.AddArgument("--disable-gpu");
+            options.AddArgument("--no-sandbox");
+            options.AddArgument("--disable-dev-shm-usage");
+            options.AddArgument("--window-size=1920,1080");
 
             IWebDriver driver = new ChromeDriver(options);
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(15));
             var rnd = new Random();
 
             string baseUrl = "https://isinolsun.com/is-ilanlari";
-            List<IlanBilgisi> ilanlar = new List<IlanBilgisi>();
+
+            string excelPath = Path.Combine(Directory.GetCurrentDirectory(), "ilanlar.xlsx");
+            var fileInfo = new FileInfo(excelPath);
+
+            if (!fileInfo.Exists)
+            {
+                using (var package = new ExcelPackage(fileInfo))
+                {
+                    var ws = package.Workbook.Worksheets.Add("İlanlar");
+                    string[] headers =
+                    {
+                        "İş Başlığı","Firma Adı","İş Tanımı","Çalışma Türü","Başvuru Sayısı","Yan Haklar",
+                        "İşveren Hakkında","İlan Detaylı Açıklama","Çalışma Saatleri","Çalışma Günleri",
+                        "Üyelik Tarihi","Yayınladığı İlan Sayısı","Son Aktif Olduğu Tarih","Link"
+                    };
+
+                    for (int i = 0; i < headers.Length; i++)
+                        ws.Cells[1, i + 1].Value = headers[i];
+
+                    package.Save();
+                }
+            }
 
             driver.Navigate().GoToUrl(baseUrl);
             Thread.Sleep(1500);
@@ -67,6 +92,8 @@ namespace IsinOlsunScraper
 
                 var basliklar = driver.FindElements(By.CssSelector("h3._158X")).ToList();
                 var firmalar = driver.FindElements(By.CssSelector("p._1Z9_")).ToList();
+
+                List<IlanBilgisi> sayfaIlanlari = new List<IlanBilgisi>();
 
                 for (int i = 0; i < basliklar.Count; i++)
                 {
@@ -166,7 +193,7 @@ namespace IsinOlsunScraper
                     }
                     catch { }
 
-                    ilanlar.Add(new IlanBilgisi
+                    sayfaIlanlari.Add(new IlanBilgisi
                     {
                         Baslik = baslik,
                         Firma = firma,
@@ -187,36 +214,26 @@ namespace IsinOlsunScraper
                     Console.WriteLine($" + {baslik} | {firma}");
                 }
 
+                AppendToExcel(fileInfo, sayfaIlanlari);
+                Console.WriteLine($"{sayfa}. sayfa Excel'e kaydedildi ({sayfaIlanlari.Count} ilan).");
+
                 sayfa++;
+
+                GC.Collect();
+                Thread.Sleep(1000);
             }
 
             driver.Quit();
-
-            SaveExcel(ilanlar);
-            Console.WriteLine($"\nToplam {ilanlar.Count} ilan kaydedildi.");
+            Console.WriteLine("\n Tüm sayfalar tamamlandı ve Excel'e kaydedildi!");
         }
 
-        private void SaveExcel(List<IlanBilgisi> ilanlar)
+        private void AppendToExcel(FileInfo fileInfo, List<IlanBilgisi> ilanlar)
         {
-            string excelPath = Path.Combine(Directory.GetCurrentDirectory(), "ilanlar.xlsx");
-
-            using (var package = new ExcelPackage(new FileInfo(excelPath)))
+            using (var package = new ExcelPackage(fileInfo))
             {
-                var ws = package.Workbook.Worksheets.FirstOrDefault(w => w.Name == "İlanlar");
-                if (ws != null) package.Workbook.Worksheets.Delete(ws);
-                ws = package.Workbook.Worksheets.Add("İlanlar");
+                var ws = package.Workbook.Worksheets.First();
+                int row = ws.Dimension?.End.Row + 1 ?? 2;
 
-                string[] headers =
-                {
-                    "İş Başlığı","Firma Adı","İş Tanımı","Çalışma Türü","Başvuru Sayısı","Yan Haklar",
-                    "İşveren Hakkında","İlan Detaylı Açıklama","Çalışma Saatleri","Çalışma Günleri",
-                    "Üyelik Tarihi","Yayınladığı İlan Sayısı","Son Aktif Olduğu Tarih","Link"
-                };
-
-                for (int i = 0; i < headers.Length; i++)
-                    ws.Cells[1, i + 1].Value = headers[i];
-
-                int row = 2;
                 foreach (var ilan in ilanlar)
                 {
                     ws.Cells[row, 1].Value = ilan.Baslik;
