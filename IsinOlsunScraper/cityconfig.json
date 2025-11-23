@@ -1,0 +1,709 @@
+﻿{
+  "cities": [
+    {
+      "name": "İstanbul",
+      "districts": [
+        {
+          "name": "Adalar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Adalar&city=%C4%B0stanbul&town=Adalar&brlat=40.818025&brlon=29.148283&tplat=40.914366&tplon=28.969195"
+        },
+        {
+          "name": "Arnavutköy",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Arnavutk%C3%B6y&city=%C4%B0stanbul&town=Arnavutk%C3%B6y&brlat=41.162987&brlon=28.778285&tplat=41.232174&tplon=28.67585"
+        },
+        {
+          "name": "Ataşehir",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Ata%C5%9Fehir&city=%C4%B0stanbul&town=Ata%C5%9Fehir&brlat=40.959034&brlon=29.203709&tplat=41.009531&tplon=29.072258"
+        },
+        {
+          "name": "Avcılar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Avc%C4%B1lar&city=%C4%B0stanbul&town=Avc%C4%B1lar&brlat=40.968969&brlon=28.756707&tplat=41.106106&tplon=28.682273"
+        },
+        {
+          "name": "Bağcılar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Ba%C4%9Fc%C4%B1lar&city=%C4%B0stanbul&town=Ba%C4%9Fc%C4%B1lar&brlat=41.017607&brlon=28.872725&tplat=41.072219&tplon=28.807965"
+        },
+        {
+          "name": "Bahçelievler",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bah%C3%A7elievler&city=%C4%B0stanbul&town=Bah%C3%A7elievler&brlat=40.991666&brlon=28.88416&tplat=41.02786&tplon=28.806061"
+        },
+        {
+          "name": "Bakırköy",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bak%C4%B1rk%C3%B6y&city=%C4%B0stanbul&town=Bak%C4%B1rk%C3%B6y&brlat=40.954512&brlon=28.896521&tplat=41.007094&tplon=28.773452"
+        },
+        {
+          "name": "Başakşehir",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Ba%C5%9Fak%C5%9Fehir&city=%C4%B0stanbul&town=Ba%C5%9Fak%C5%9Fehir&brlat=41.057881&brlon=28.850617&tplat=41.149516&tplon=28.639836"
+        },
+        {
+          "name": "Bayrampaşa",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bayrampa%C5%9Fa&city=%C4%B0stanbul&town=Bayrampa%C5%9Fa&brlat=41.024384&brlon=28.924018&tplat=41.077352&tplon=28.878501"
+        },
+        {
+          "name": "Beşiktaş",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Be%C5%9Fikta%C5%9F&city=%C4%B0stanbul&town=Be%C5%9Fikta%C5%9F&brlat=41.036812&brlon=29.05511&tplat=41.103613&tplon=28.991635"
+        },
+        {
+          "name": "Beykoz",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Beykoz&city=%C4%B0stanbul&town=Beykoz&brlat=41.041845&brlon=29.365028&tplat=41.234568&tplon=29.064227"
+        },
+        {
+          "name": "Beylikdüzü",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Beylikd%C3%BCz%C3%BC&city=%C4%B0stanbul&town=Beylikd%C3%BCz%C3%BC&brlat=40.957195&brlon=28.700068&tplat=41.018655&tplon=28.594992"
+        },
+        {
+          "name": "Beyoğlu",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Beyo%C4%9Flu&city=%C4%B0stanbul&town=Beyo%C4%9Flu&brlat=41.021064&brlon=28.995794&tplat=41.06468&tplon=28.939038"
+        },
+        {
+          "name": "Büyükçekmece",
+          "url": "https://isinolsun.com/is-ilanlari?lc=B%C3%BCy%C3%BCk%C3%A7ekmece&city=%C4%B0stanbul&town=B%C3%BCy%C3%BCk%C3%A7ekmece&brlat=40.984593&brlon=28.633925&tplat=41.129693&tplon=28.390967"
+        },
+        {
+          "name": "Çatalca",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87atalca&city=%C4%B0stanbul&town=%C3%87atalca&brlat=41.055779&brlon=28.595316&tplat=41.584338&tplon=28.070834"
+        },
+        {
+          "name": "Çekmeköy",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87ekmek%C3%B6y&city=%C4%B0stanbul&town=%C3%87ekmek%C3%B6y&brlat=41.013014&brlon=29.401751&tplat=41.132607&tplon=29.138383"
+        },
+        {
+          "name": "Esenler",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Esenler&city=%C4%B0stanbul&town=Esenler&brlat=41.017355&brlon=28.900662&tplat=41.107431&tplon=28.833765"
+        },
+        {
+          "name": "Esenyurt",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Esenyurt&city=%C4%B0stanbul&town=Esenyurt&brlat=40.999098&brlon=28.701892&tplat=41.098611&tplon=28.620657"
+        },
+        {
+          "name": "Eyüpsultan",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Ey%C3%BCpsultan&city=%C4%B0stanbul&town=Ey%C3%BCpsultan&brlat=41.024567&brlon=28.97639&tplat=41.309159&tplon=28.772158"
+        },
+        {
+          "name": "Fatih",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Fatih&city=%C4%B0stanbul&town=Fatih&brlat=40.987684&brlon=28.988104&tplat=41.040906&tplon=28.919922"
+        },
+        {
+          "name": "Gaziosmanpaşa",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Gaziosmanpa%C5%9Fa&city=%C4%B0stanbul&town=Gaziosmanpa%C5%9Fa&brlat=41.051638&brlon=28.939236&tplat=41.094425&tplon=28.874369"
+        },
+        {
+          "name": "Güngören",
+          "url": "https://isinolsun.com/is-ilanlari?lc=G%C3%BCng%C3%B6ren&city=%C4%B0stanbul&town=G%C3%BCng%C3%B6ren&brlat=41.001262&brlon=28.90289&tplat=41.038519&tplon=28.858998"
+        },
+        {
+          "name": "Kadıköy",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kad%C4%B1k%C3%B6y&city=%C4%B0stanbul&town=Kad%C4%B1k%C3%B6y&brlat=40.950003&brlon=29.111272&tplat=41.012293&tplon=29.014856"
+        },
+        {
+          "name": "Kağıthane",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Ka%C4%9F%C4%B1thane&city=%C4%B0stanbul&town=Ka%C4%9F%C4%B1thane&brlat=41.052951&brlon=29.007714&tplat=41.106161&tplon=28.948192"
+        },
+        {
+          "name": "Kartal",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kartal&city=%C4%B0stanbul&town=Kartal&brlat=40.878136&brlon=29.255317&tplat=40.952966&tplon=29.138347"
+        },
+        {
+          "name": "Küçükçekmece",
+          "url": "https://isinolsun.com/is-ilanlari?lc=K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece&city=%C4%B0stanbul&town=K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece&brlat=40.977078&brlon=28.819329&tplat=41.064102&tplon=28.74025"
+        },
+        {
+          "name": "Maltepe",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Maltepe&city=%C4%B0stanbul&town=Maltepe&brlat=40.906644&brlon=29.216294&tplat=40.981312&tplon=29.094824"
+        },
+        {
+          "name": "Pendik",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Pendik&city=%C4%B0stanbul&town=Pendik&brlat=40.853824&brlon=29.506684&tplat=41.056657&tplon=29.215531"
+        },
+        {
+          "name": "Sancaktepe",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Sancaktepe&city=%C4%B0stanbul&town=Sancaktepe&brlat=40.946012&brlon=29.361516&tplat=41.05274&tplon=29.185186"
+        },
+        {
+          "name": "Sarıyer",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Sar%C4%B1yer&city=%C4%B0stanbul&town=Sar%C4%B1yer&brlat=41.081118&brlon=29.116312&tplat=41.263009&tplon=28.932418"
+        },
+        {
+          "name": "Şile",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C5%9Eile&city=%C4%B0stanbul&town=%C5%9Eile&brlat=41.152708&brlon=29.655768&tplat=41.182196&tplon=29.591053"
+        },
+        {
+          "name": "Silivri",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Silivri&city=%C4%B0stanbul&town=Silivri&brlat=41.031193&brlon=28.395468&tplat=41.363676&tplon=27.971355"
+        },
+        {
+          "name": "Şişli",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C5%9Ei%C5%9Fli&city=%C4%B0stanbul&town=%C5%9Ei%C5%9Fli&brlat=41.039254&brlon=29.016087&tplat=41.093895&tplon=28.961721"
+        },
+        {
+          "name": "Sultanbeyli",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Sultanbeyli&city=%C4%B0stanbul&town=Sultanbeyli&brlat=40.931679&brlon=29.312028&tplat=41.00489&tplon=29.244762"
+        },
+        {
+          "name": "Sultangazi",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Sultangazi&city=%C4%B0stanbul&town=Sultangazi&brlat=41.081553&brlon=28.922249&tplat=41.159742&tplon=28.82462"
+        },
+        {
+          "name": "Tuzla",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Tuzla&city=%C4%B0stanbul&town=Tuzla&brlat=40.79068&brlon=29.455803&tplat=40.980659&tplon=29.254679"
+        },
+        {
+          "name": "Ümraniye",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%9Cmraniye&city=%C4%B0stanbul&town=%C3%9Cmraniye&brlat=40.988943&brlon=29.194699&tplat=41.06555&tplon=29.080334"
+        },
+        {
+          "name": "Üsküdar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%9Csk%C3%BCdar&city=%C4%B0stanbul&town=%C3%9Csk%C3%BCdar&brlat=40.99251&brlon=29.091707&tplat=41.078045&tplon=29.003699"
+        },
+        {
+          "name": "Zeytinburnu",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Zeytinburnu&city=%C4%B0stanbul&town=Zeytinburnu&brlat=40.977888&brlon=28.92939&tplat=41.032499&tplon=28.889478"
+        }
+      ]
+    }
+    /*{
+      "name": "Adıyaman",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Ad%C4%B1yaman&city=Ad%C4%B1yaman&brlat=37.410209&brlon=39.262846&tplat=38.206312&tplon=37.438062"
+    },
+    {
+      "name": "Adana",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Adana&city=Adana&brlat=36.538829&brlon=36.409195&tplat=38.404566&tplon=34.754309"
+    },
+    {
+      "name": "Afyonkarahisar",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Afyonkarahisar&city=Afyonkarahisar&brlat=37.788265&brlon=31.732089&tplat=39.272304&tplon=29.631567"
+    },
+    {
+      "name": "Ağrı",
+      "url": "https://isinolsun.com/is-ilanlari?lc=A%C4%9Fr%C4%B1&city=A%C4%9Fr%C4%B1&brlat=38.941787&brlon=44.485103&tplat=40.020465&tplon=42.284931"
+    },
+    {
+      "name": "Amasya",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Amasya&city=Amasya&brlat=40.233825&brlon=36.509249&tplat=41.077563&tplon=34.992515"
+    },
+    {
+      "name": "Antalya",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Antalya&city=Antalya&brlat=36.092614&brlon=32.627404&tplat=37.457545&tplon=29.267831"
+    },
+    {
+      "name": "Artvin",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Artvin&city=Artvin&brlat=40.55163&brlon=42.61632&tplat=41.524905&tplon=41.152542"
+    },
+    {
+      "name": "Aydın",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Ayd%C4%B1n&city=Ayd%C4%B1n&brlat=37.322507&brlon=28.905863&tplat=38.129314&tplon=27.000007"
+    },
+    {
+      "name": "Balıkesir",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bal%C4%B1kesir&city=Bal%C4%B1kesir&brlat=39.070564&brlon=28.999396&tplat=40.668103&tplon=26.525265"
+    },
+    {
+      "name": "Bilecik",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bilecik&city=Bilecik&brlat=39.653834&brlon=30.650634&tplat=40.520952&tplon=29.698591"
+    },
+    {
+      "name": "Bingöl",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bing%C3%B6l&city=Bing%C3%B6l&brlat=38.48694&brlon=41.287047&tplat=39.532884&tplon=39.926665"
+    },
+    {
+      "name": "Bitlis",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bitlis&city=Bitlis&brlat=37.968274&brlon=43.245922&tplat=39.02595&tplon=41.508418"
+    },
+    {
+      "name": "Bolu",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bolu&city=Bolu&brlat=40.132377&brlon=32.583135&tplat=41.063266&tplon=30.561998"
+    },
+    {
+      "name": "Burdur",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Burdur&city=Burdur&brlat=36.83904&brlon=30.946252&tplat=37.832879&tplon=29.327964"
+    },
+    {
+      "name": "Bursa",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bursa&city=Bursa&brlat=39.581754&brlon=29.922181&tplat=40.614407&tplon=28.087211"
+    },
+    {
+      "name": "Çanakkale",
+      "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87anakkale&city=%C3%87anakkale&brlat=39.453462&brlon=27.538403&tplat=40.738416&tplon=25.666655"
+    },
+    {
+      "name": "Çankırı",
+      "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87ank%C4%B1r%C4%B1&city=%C3%87ank%C4%B1r%C4%B1&brlat=40.248027&brlon=34.164161&tplat=41.074592&tplon=32.551146"
+    },
+    {
+      "name": "Çorum",
+      "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87orum&city=%C3%87orum&brlat=39.927901&brlon=35.533912&tplat=41.331806&tplon=33.970197"
+    },
+    {
+      "name": "Denizli",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Denizli&city=Denizli&brlat=36.851357&brlon=30.084076&tplat=38.469597&tplon=28.582227"
+    },
+    {
+      "name": "Diyarbakır",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Diyarbak%C4%B1r&city=Diyarbak%C4%B1r&brlat=37.486693&brlon=41.375072&tplat=38.718652&tplon=39.106656"
+    },
+    {
+      "name": "Edirne",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Edirne&city=Edirne&brlat=40.589792&brlon=26.998614&tplat=42.001511&tplon=26.035935"
+    },
+    {
+      "name": "Elazığ",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Elaz%C4%B1%C4%9F&city=Elaz%C4%B1%C4%9F&brlat=38.260332&brlon=40.339584&tplat=39.177202&tplon=38.355889"
+    },
+    {
+      "name": "Erzincan",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Erzincan&city=Erzincan&brlat=39.006243&brlon=40.755262&tplat=40.080712&tplon=38.276909"
+    },
+    {
+      "name": "Erzurum",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Erzurum&city=Erzurum&brlat=39.154222&brlon=42.632148&tplat=40.981462&tplon=40.249196"
+    },
+    {
+      "name": "Eskişehir",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Eski%C5%9Fehir&city=Eski%C5%9Fehir&brlat=39.043739&brlon=32.010225&tplat=40.157229&tplon=29.989582"
+    },
+    {
+      "name": "Gaziantep",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Gaziantep&city=Gaziantep&brlat=36.703847&brlon=38.081723&tplat=37.537306&tplon=36.447804"
+    },
+    {
+      "name": "Giresun",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Giresun&city=Giresun&brlat=40.045213&brlon=39.183004&tplat=41.078582&tplon=37.959318"
+    },
+    {
+      "name": "Gümüşhane",
+      "url": "https://isinolsun.com/is-ilanlari?lc=G%C3%BCm%C3%BC%C5%9Fhane&city=G%C3%BCm%C3%BC%C5%9Fhane&brlat=39.843812&brlon=40.103867&tplat=40.810142&tplon=38.789946"
+    },
+    {
+      "name": "Hakkari",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Hakkari&city=Hakkari&brlat=36.962929&brlon=44.815395&tplat=37.808687&tplon=43.307771"
+    },
+    {
+      "name": "Hatay",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Hatay&city=Hatay&brlat=35.805949&brlon=36.704857&tplat=37.033598&tplon=35.779682"
+    },
+    {
+      "name": "Isparta",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Isparta&city=Isparta&brlat=37.308078&brlon=31.555561&tplat=38.509918&tplon=30.110765"
+    },
+    {
+      "name": "Mersin",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Mersin&city=Mersin&brlat=36.016729&brlon=35.15149&tplat=37.435736&tplon=32.538453"
+    },
+    {
+      "name": "Kars",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Kars&city=Kars&brlat=39.92142&brlon=43.748179&tplat=41.094989&tplon=42.114063"
+    },
+    {
+      "name": "Kastamonu",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Kastamonu&city=Kastamonu&brlat=40.826644&brlon=34.608019&tplat=42.019171&tplon=32.746943"
+    },
+    {
+      "name": "Kayseri",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Kayseri&city=Kayseri&brlat=37.678473&brlon=36.971603&tplat=39.309998&tplon=34.894653"
+    },
+    {
+      "name": "Kırklareli",
+      "url": "https://isinolsun.com/is-ilanlari?lc=K%C4%B1rklareli&city=K%C4%B1rklareli&brlat=41.222971&brlon=28.14685&tplat=42.105022&tplon=26.880639"
+    },
+    {
+      "name": "Kırşehir",
+      "url": "https://isinolsun.com/is-ilanlari?lc=K%C4%B1r%C5%9Fehir&city=K%C4%B1r%C5%9Fehir&brlat=38.799054&brlon=34.692298&tplat=39.792253&tplon=33.420589"
+    },
+    {
+      "name": "Kocaeli",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Kocaeli&city=Kocaeli&brlat=40.523715&brlon=30.365949&tplat=41.209846&tplon=29.333075"
+    },
+    {
+      "name": "Konya",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Konya&city=Konya&brlat=36.752924&brlon=34.464414&tplat=39.306027&tplon=31.237441"
+    },
+    {
+      "name": "Kütahya",
+      "url": "https://isinolsun.com/is-ilanlari?lc=K%C3%BCtahya&city=K%C3%BCtahya&brlat=38.781245&brlon=30.43838&tplat=39.907392&tplon=28.605251"
+    },
+    {
+      "name": "Malatya",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Malatya&city=Malatya&brlat=37.891243&brlon=39.150493&tplat=39.15616&tplon=37.264346"
+    },
+    {
+      "name": "Manisa",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Manisa&city=Manisa&brlat=38.085122&brlon=29.112952&tplat=39.423774&tplon=27.11209"
+    },
+    {
+      "name": "Kahramanmaraş",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Kahramanmara%C5%9F&city=Kahramanmara%C5%9F&brlat=37.198894&brlon=37.752553&tplat=38.609844&tplon=36.201387"
+    },
+    {
+      "name": "Mardin",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Mardin&city=Mardin&brlat=36.911182&brlon=41.897982&tplat=37.744151&tplon=39.874814"
+    },
+    {
+      "name": "Muğla",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Mu%C4%9Fla&city=Mu%C4%9Fla&brlat=36.287743&brlon=29.787048&tplat=37.59567&tplon=27.180218"
+    },
+    {
+      "name": "Muş",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Mu%C5%9F&city=Mu%C5%9F&brlat=38.483092&brlon=42.718323&tplat=39.512276&tplon=41.104464"
+    },
+    {
+      "name": "Nevşehir",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Nev%C5%9Fehir&city=Nev%C5%9Fehir&brlat=38.310073&brlon=35.109395&tplat=39.414152&tplon=34.241632"
+    },
+    {
+      "name": "Niğde",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Ni%C4%9Fde&city=Ni%C4%9Fde&brlat=37.37425&brlon=35.32323&tplat=38.364058&tplon=33.959722"
+    },
+    {
+      "name": "Ordu",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Ordu&city=Ordu&brlat=40.330611&brlon=38.153795&tplat=41.147989&tplon=36.681097"
+    },
+    {
+      "name": "Rize",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Rize&city=Rize&brlat=40.516887&brlon=41.395581&tplat=41.326646&tplon=40.328427"
+    },
+    {
+      "name": "Sakarya",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Sakarya&city=Sakarya&brlat=40.29241&brlon=31.012431&tplat=41.179664&tplon=29.915543"
+    },
+    {
+      "name": "Samsun",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Samsun&city=Samsun&brlat=40.835228&brlon=37.169511&tplat=41.738286&tplon=34.881017"
+    },
+    {
+      "name": "Siirt",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Siirt&city=Siirt&brlat=37.577083&brlon=42.89195&tplat=38.261055&tplon=41.372557"
+    },
+    {
+      "name": "Sinop",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Sinop&city=Sinop&brlat=41.208272&brlon=35.440353&tplat=42.098038&tplon=34.224303"
+    },
+    {
+      "name": "Sivas",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Sivas&city=Sivas&brlat=38.535507&brlon=38.772195&tplat=40.531611&tplon=35.85144"
+    },
+    {
+      "name": "Tekirdağ",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Tekirda%C4%9F&city=Tekirda%C4%9F&brlat=40.550047&brlon=28.146967&tplat=41.616232&tplon=26.683162"
+    },
+    {
+      "name": "Tokat",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Tokat&city=Tokat&brlat=39.888551&brlon=37.622342&tplat=40.910849&tplon=35.448366"
+    },
+    {
+      "name": "Trabzon",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Trabzon&city=Trabzon&brlat=40.51278&brlon=40.507803&tplat=41.107574&tplon=39.120436"
+    },
+    {
+      "name": "Tunceli",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Tunceli&city=Tunceli&brlat=38.763074&brlon=40.421852&tplat=39.61689&tplon=38.729803"
+    },
+    {
+      "name": "Şanlıurfa",
+      "url": "https://isinolsun.com/is-ilanlari?lc=%C5%9Eanl%C4%B1urfa&city=%C5%9Eanl%C4%B1urfa&brlat=36.668822&brlon=40.23794&tplat=38.021377&tplon=37.834336"
+    },
+    {
+      "name": "Uşak",
+      "url": "https://isinolsun.com/is-ilanlari?lc=U%C5%9Fak&city=U%C5%9Fak&brlat=38.161954&brlon=30.013495&tplat=38.951643&tplon=28.76401"
+    },
+    {
+      "name": "Van",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Van&city=Van&brlat=37.721078&brlon=44.512196&tplat=39.39521&tplon=42.671225"
+    },
+    {
+      "name": "Yozgat",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Yozgat&city=Yozgat&brlat=38.954196&brlon=36.158771&tplat=40.254586&tplon=34.064879"
+    },
+    {
+      "name": "Zonguldak",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Zonguldak&city=Zonguldak&brlat=41.003113&brlon=32.322947&tplat=41.588756&tplon=31.279338"
+    },
+    {
+      "name": "Aksaray",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Aksaray&city=Aksaray&brlat=37.97697&brlon=34.483081&tplat=39.052509&tplon=33.175134"
+    },
+    {
+      "name": "Bayburt",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bayburt&city=Bayburt&brlat=39.923025&brlon=40.712646&tplat=40.570717&tplon=39.651529"
+    },
+    {
+      "name": "Karaman",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Karaman&city=Karaman&brlat=36.435875&brlon=34.260065&tplat=37.565729&tplon=32.484689"
+    },
+    {
+      "name": "Kırıkkale",
+      "url": "https://isinolsun.com/is-ilanlari?lc=K%C4%B1r%C4%B1kkale&city=K%C4%B1r%C4%B1kkale&brlat=39.397015&brlon=34.244758&tplat=40.332831&tplon=33.185375"
+    },
+    {
+      "name": "Batman",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Batman&city=Batman&brlat=37.501244&brlon=41.724526&tplat=38.555169&tplon=40.987243"
+    },
+    {
+      "name": "Şırnak",
+      "url": "https://isinolsun.com/is-ilanlari?lc=%C5%9E%C4%B1rnak&city=%C5%9E%C4%B1rnak&brlat=37.100244&brlon=43.502041&tplat=37.770269&tplon=41.555086"
+    },
+    {
+      "name": "Bartın",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Bart%C4%B1n&city=Bart%C4%B1n&brlat=41.316434&brlon=32.934511&tplat=41.849274&tplon=32.089008"
+    },
+    {
+      "name": "Ardahan",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Ardahan&city=Ardahan&brlat=40.63867&brlon=43.488799&tplat=41.600887&tplon=42.327314"
+    },
+    {
+      "name": "Iğdır",
+      "url": "https://isinolsun.com/is-ilanlari?lc=I%C4%9Fd%C4%B1r&city=I%C4%9Fd%C4%B1r&brlat=39.628241&brlon=44.817695&tplat=40.138361&tplon=43.281289"
+    },
+    {
+      "name": "Yalova",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Yalova&city=Yalova&brlat=40.456248&brlon=29.558454&tplat=40.743151&tplon=28.779794"
+    },
+    {
+      "name": "Karabük",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Karab%C3%BCk&city=Karab%C3%BCk&brlat=40.797371&brlon=33.158227&tplat=41.58301&tplon=32.102168"
+    },
+    {
+      "name": "Kilis",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Kilis&city=Kilis&brlat=36.631994&brlon=37.568632&tplat=37.021318&tplon=36.701291"
+    },
+    {
+      "name": "Osmaniye",
+      "url": "https://isinolsun.com/is-ilanlari?lc=Osmaniye&city=Osmaniye&brlat=36.917363&brlon=36.717739&tplat=37.748359&tplon=35.875856"
+    },
+    {
+      "name": "Düzce",
+      "url": "https://isinolsun.com/is-ilanlari?lc=D%C3%BCzce&city=D%C3%BCzce&brlat=40.635721&brlon=31.769459&tplat=41.111481&tplon=30.811891"
+    },
+    // ... diğer iller alfabetik burada ...
+    // --- ÖZEL: ilçeli şehirler en sonda ---
+    {
+      "name": "Ankara",
+      "districts": [
+        {
+          "name": "Akyurt",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Akyurt&city=Ankara&town=Akyurt&brlat=40.023234&brlon=33.316591&tplat=40.227181&tplon=32.954094"
+        },
+        {
+          "name": "Altındağ",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Alt%C4%B1nda%C4%9F&city=Ankara&town=Alt%C4%B1nda%C4%9F&brlat=39.928835&brlon=33.117183&tplat=40.051717&tplon=32.830756"
+        },
+        {
+          "name": "Ayaş",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Aya%C5%9F&city=Ankara&town=Aya%C5%9F&brlat=39.79921&brlon=32.54979&tplat=40.257484&tplon=31.948529"
+        },
+        {
+          "name": "Bala",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bala&city=Ankara&town=Bala&brlat=39.161426&brlon=33.592949&tplat=39.737908&tplon=32.840511"
+        },
+        {
+          "name": "Beypazarı",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Beypazar%C4%B1&city=Ankara&town=Beypazar%C4%B1&brlat=39.849552&brlon=32.198342&tplat=40.508852&tplon=31.663916"
+        },
+        {
+          "name": "Çamlıdere",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87aml%C4%B1dere&city=Ankara&town=%C3%87aml%C4%B1dere&brlat=40.444925&brlon=32.54387&tplat=40.532352&tplon=32.457443"
+        },
+        {
+          "name": "Çankaya",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87ankaya&city=Ankara&town=%C3%87ankaya&brlat=39.657994&brlon=33.14275&tplat=39.937652&tplon=32.62638"
+        },
+        {
+          "name": "Çubuk",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87ubuk&city=Ankara&town=%C3%87ubuk&brlat=40.092856&brlon=33.269816&tplat=40.545689&tplon=32.798264"
+        },
+        {
+          "name": "Elmadağ",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Elmada%C4%9F&city=Ankara&town=Elmada%C4%9F&brlat=39.859931&brlon=33.301877&tplat=39.927797&tplon=33.148112"
+        },
+        {
+          "name": "Etimesgut",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Etimesgut&city=Ankara&town=Etimesgut&brlat=39.723203&brlon=32.79927&tplat=40.005648&tplon=32.480772"
+        },
+        {
+          "name": "Evren",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Evren&city=Ankara&town=Evren&brlat=38.933452&brlon=33.895107&tplat=39.155495&tplon=33.635215"
+        },
+        {
+          "name": "Gölbaşı",
+          "url": "https://isinolsun.com/is-ilanlari?lc=G%C3%B6lba%C5%9F%C4%B1&city=Ankara&town=G%C3%B6lba%C5%9F%C4%B1&brlat=39.766642&brlon=32.839029&tplat=39.814196&tplon=32.779722"
+        },
+        {
+          "name": "Güdül",
+          "url": "https://isinolsun.com/is-ilanlari?lc=G%C3%BCd%C3%BCl&city=Ankara&town=G%C3%BCd%C3%BCl&brlat=39.946918&brlon=32.414225&tplat=40.370508&tplon=32.034606"
+        },
+        {
+          "name": "Haymana",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Haymana&city=Ankara&town=Haymana&brlat=39.402674&brlon=32.530314&tplat=39.44743&tplon=32.470693"
+        },
+        {
+          "name": "Kahramankazan",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kahramankazan&city=Ankara&town=Kahramankazan&brlat=40.025983&brlon=32.90104&tplat=40.347631&tplon=32.511449"
+        },
+        {
+          "name": "Kalecik",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kalecik&city=Ankara&town=Kalecik&brlat=40.041913&brlon=33.455902&tplat=40.103562&tplon=33.393595"
+        },
+        {
+          "name": "Keçiören",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Ke%C3%A7i%C3%B6ren&city=Ankara&town=Ke%C3%A7i%C3%B6ren&brlat=39.957751&brlon=32.900294&tplat=40.216728&tplon=32.740205"
+        },
+        {
+          "name": "Kızılcahamam",
+          "url": "https://isinolsun.com/is-ilanlari?lc=K%C4%B1z%C4%B1lcahamam&city=Ankara&town=K%C4%B1z%C4%B1lcahamam&brlat=40.207988&brlon=32.921926&tplat=40.75637&tplon=32.274833"
+        },
+        {
+          "name": "Mamak",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Mamak&city=Ankara&town=Mamak&brlat=39.78851&brlon=33.167354&tplat=40.021798&tplon=32.875959"
+        },
+        {
+          "name": "Nallıhan",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Nall%C4%B1han&city=Ankara&town=Nall%C4%B1han&brlat=40.011168&brlon=31.760916&tplat=40.37362&tplon=30.829525"
+        },
+        {
+          "name": "Polatlı",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Polatl%C4%B1&city=Ankara&town=Polatl%C4%B1&brlat=39.558081&brlon=32.175372&tplat=39.603605&tplon=32.099078"
+        },
+        {
+          "name": "Pursaklar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Pursaklar&city=Ankara&town=Pursaklar&brlat=40.01554&brlon=32.987781&tplat=40.200177&tplon=32.798192"
+        },
+        {
+          "name": "Şereflikoçhisar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C5%9Eerefliko%C3%A7hisar&city=Ankara&town=%C5%9Eerefliko%C3%A7hisar&brlat=38.664772&brlon=33.806039&tplat=39.280919&tplon=33.127397"
+        },
+        {
+          "name": "Sincan",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Sincan&city=Ankara&town=Sincan&brlat=39.618134&brlon=32.605198&tplat=40.157381&tplon=32.234472"
+        },
+        {
+          "name": "Yenimahalle",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Yenimahalle&city=Ankara&town=Yenimahalle&brlat=39.91101&brlon=32.847132&tplat=40.105059&tplon=32.564495"
+        }
+      ]
+    },
+    {
+      "name": "İzmir",
+      "districts": [
+        {
+          "name": "Aliağa",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Alia%C4%9Fa&city=%C4%B0zmir&town=Alia%C4%9Fa&brlat=38.663871&brlon=27.188545&tplat=38.950528&tplon=26.876021"
+        },
+        {
+          "name": "Balçova",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bal%C3%A7ova&city=%C4%B0zmir&town=Bal%C3%A7ova&brlat=38.344725&brlon=27.095228&tplat=38.418334&tplon=27.015566"
+        },
+        {
+          "name": "Bayındır",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bay%C4%B1nd%C4%B1r&city=%C4%B0zmir&town=Bay%C4%B1nd%C4%B1r&brlat=38.120891&brlon=27.833392&tplat=38.365331&tplon=27.429689"
+        },
+        {
+          "name": "Bayraklı",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bayrakl%C4%B1&city=%C4%B0zmir&town=Bayrakl%C4%B1&brlat=38.447439&brlon=27.203322&tplat=38.526645&tplon=27.111595"
+        },
+        {
+          "name": "Bergama",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bergama&city=%C4%B0zmir&town=Bergama&brlat=38.851546&brlon=27.480623&tplat=39.385409&tplon=26.886648"
+        },
+        {
+          "name": "Beydağ",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Beyda%C4%9F&city=%C4%B0zmir&town=Beyda%C4%9F&brlat=38.033194&brlon=28.331894&tplat=38.156869&tplon=28.11902"
+        },
+        {
+          "name": "Bornova",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Bornova&city=%C4%B0zmir&town=Bornova&brlat=38.363732&brlon=27.354275&tplat=38.573408&tplon=27.174927"
+        },
+        {
+          "name": "Buca",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Buca&city=%C4%B0zmir&town=Buca&brlat=38.271168&brlon=27.36916&tplat=38.416977&tplon=27.13585"
+        },
+        {
+          "name": "Çeşme",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87e%C5%9Fme&city=%C4%B0zmir&town=%C3%87e%C5%9Fme&brlat=38.18286&brlon=26.551217&tplat=38.436368&tplon=26.194056"
+        },
+        {
+          "name": "Çiğli",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%87i%C4%9Fli&city=%C4%B0zmir&town=%C3%87i%C4%9Fli&brlat=38.427705&brlon=27.118953&tplat=38.556262&tplon=26.883801"
+        },
+        {
+          "name": "Dikili",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Dikili&city=%C4%B0zmir&town=Dikili&brlat=39.054344&brlon=26.902989&tplat=39.105407&tplon=26.87435"
+        },
+        {
+          "name": "Foça",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Fo%C3%A7a&city=%C4%B0zmir&town=Fo%C3%A7a&brlat=38.578408&brlon=26.967685&tplat=38.762152&tplon=26.707452"
+        },
+        {
+          "name": "Gaziemir",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Gaziemir&city=%C4%B0zmir&town=Gaziemir&brlat=38.281118&brlon=27.224639&tplat=38.362622&tplon=27.075555"
+        },
+        {
+          "name": "Güzelbahçe",
+          "url": "https://isinolsun.com/is-ilanlari?lc=G%C3%BCzelbah%C3%A7e&city=%C4%B0zmir&town=G%C3%BCzelbah%C3%A7e&brlat=38.285876&brlon=26.961226&tplat=38.384933&tplon=26.810004"
+        },
+        {
+          "name": "Karabağlar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Karaba%C4%9Flar&city=%C4%B0zmir&town=Karaba%C4%9Flar&brlat=38.288467&brlon=27.142668&tplat=38.406213&tplon=26.939155"
+        },
+        {
+          "name": "Karaburun",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Karaburun&city=%C4%B0zmir&town=Karaburun&brlat=38.414801&brlon=26.641336&tplat=38.68054&tplon=26.307082"
+        },
+        {
+          "name": "Karşıyaka",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kar%C5%9F%C4%B1yaka&city=%C4%B0zmir&town=Kar%C5%9F%C4%B1yaka&brlat=38.448689&brlon=27.186883&tplat=38.557941&tplon=27.062565"
+        },
+        {
+          "name": "Kemalpaşa",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kemalpa%C5%9Fa&city=%C4%B0zmir&town=Kemalpa%C5%9Fa&brlat=38.287547&brlon=27.717087&tplat=38.560473&tplon=27.320624"
+        },
+        {
+          "name": "Kınık",
+          "url": "https://isinolsun.com/is-ilanlari?lc=K%C4%B1n%C4%B1k&city=%C4%B0zmir&town=K%C4%B1n%C4%B1k&brlat=38.922751&brlon=27.563771&tplat=39.164804&tplon=27.221486"
+        },
+        {
+          "name": "Kiraz",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Kiraz&city=%C4%B0zmir&town=Kiraz&brlat=38.087728&brlon=28.493052&tplat=38.36903&tplon=28.122524"
+        },
+        {
+          "name": "Konak",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Konak&city=%C4%B0zmir&town=Konak&brlat=38.393029&brlon=27.189551&tplat=38.450809&tplon=27.06889"
+        },
+        {
+          "name": "Menderes",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Menderes&city=%C4%B0zmir&town=Menderes&brlat=37.980135&brlon=27.313797&tplat=38.319019&tplon=26.943691"
+        },
+        {
+          "name": "Menemen",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Menemen&city=%C4%B0zmir&town=Menemen&brlat=38.50401&brlon=27.249927&tplat=38.744933&tplon=26.814379"
+        },
+        {
+          "name": "Narlıdere",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Narl%C4%B1dere&city=%C4%B0zmir&town=Narl%C4%B1dere&brlat=38.334389&brlon=27.035302&tplat=38.413832&tplon=26.922994"
+        },
+        {
+          "name": "Ödemiş",
+          "url": "https://isinolsun.com/is-ilanlari?lc=%C3%96demi%C5%9F&city=%C4%B0zmir&town=%C3%96demi%C5%9F&brlat=37.965784&brlon=28.196464&tplat=38.418596&tplon=27.782691"
+        },
+        {
+          "name": "Seferihisar",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Seferihisar&city=%C4%B0zmir&town=Seferihisar&brlat=38.020383&brlon=26.992317&tplat=38.309244&tplon=26.751021"
+        },
+        {
+          "name": "Selçuk",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Sel%C3%A7uk&city=%C4%B0zmir&town=Sel%C3%A7uk&brlat=37.815243&brlon=27.502057&tplat=38.081153&tplon=27.247052"
+        },
+        {
+          "name": "Tire",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Tire&city=%C4%B0zmir&town=Tire&brlat=37.949262&brlon=27.964034&tplat=38.22651&tplon=27.457321"
+        },
+        {
+          "name": "Torbalı",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Torbal%C4%B1&city=%C4%B0zmir&town=Torbal%C4%B1&brlat=38.029137&brlon=27.523105&tplat=38.34024&tplon=27.206431"
+        },
+        {
+          "name": "Urla",
+          "url": "https://isinolsun.com/is-ilanlari?lc=Urla&city=%C4%B0zmir&town=Urla&brlat=38.103047&brlon=26.889047&tplat=38.547156&tplon=26.439144"
+        }
+      ]
+    }*/
+  ]
+}
