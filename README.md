@@ -1,5 +1,5 @@
 # WebScraper
-isinolsun.com web scraper
+secretcv.com web scraper
 
 # Setup Instructions
 The application requires the cityconfig.json file to be placed in the bin/Debug directory. This file contains the full list of cities, which the system relies on to operate correctly.
