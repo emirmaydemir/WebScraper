@@ -2,41 +2,40 @@
 
 namespace IsinOlsunScraper
 {
-    public class CityConfig
+    // --- City Configuration Models ---
+    public class CityConfigRoot
     {
-        public List<CityConfigItem> Cities { get; set; }
+        public List<City> Cities { get; set; }
     }
 
-    public class CityConfigItem
+    public class City
     {
         public string Name { get; set; }
         public string Url { get; set; }
-        public List<DistrictConfig> Districts { get; set; }
+        public List<District> Districts { get; set; }
     }
 
-    public class DistrictConfig
+    public class District
     {
         public string Name { get; set; }
         public string Url { get; set; }
     }
 
-    public class IlanBilgisi
+    // --- SecretCV Job Listing Model ---
+    public class SecretCVJobListing
     {
-        public string Baslik { get; set; }
-        public string Firma { get; set; }
-        public string IsTanimi { get; set; }
-        public string CalismaTuru { get; set; }
-        public string BasvuruSayisi { get; set; }
-        public string YanHaklar { get; set; }
-        public string IsverenHakkinda { get; set; }
-        public string IlanDetayAciklama { get; set; }
-        public string CalismaSaatleri { get; set; }
-        public string CalismaGunleri { get; set; }
-        public string UyelikTarihi { get; set; }
-        public string IlanSayisi { get; set; }
-        public string SonAktifTarih { get; set; }
-        public string CompanyId { get; set; }
-        public string OtherJobs { get; set; }
-        public string Link { get; set; }
+        // Basic Information from job card (List Page)
+        public string JobTitle { get; set; }
+        public string CompanyName { get; set; }
+        public string Location { get; set; }
+        public string District { get; set; }
+        public string PostDate { get; set; }
+        public string JobUrl { get; set; }
+        public string SourceCity { get; set; }
+
+        // Detail Page Information
+        public string JobDescription { get; set; }  // İş Açıklaması
+        public string RequiredSkills { get; set; }  // İstenen Yetenek ve Uzmanlıklar
     }
+
 }

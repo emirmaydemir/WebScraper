@@ -1,0 +1,164 @@
+{
+  "cities": [
+    {
+      "name": "Istanbul_Anadolu",
+      "url": "https://www.secretcv.com/is-ilanlari/istanbul-anadolu-is-ilanlari?l=50"
+    },
+    {
+      "name": "Istanbul_Avrupa",
+      "url": "https://www.secretcv.com/is-ilanlari/istanbul-avrupa-is-ilanlari?l=50"
+    },
+    {
+      "name": "Ankara",
+      "url": "https://www.secretcv.com/is-ilanlari/ankara-is-ilanlari?l=50"
+    },
+    {
+      "name": "Izmir",
+      "url": "https://www.secretcv.com/is-ilanlari/izmir-is-ilanlari?l=50"
+    },
+    {
+      "name": "Bursa",
+      "url": "https://www.secretcv.com/is-ilanlari/bursa-is-ilanlari?l=50"
+    },
+    {
+      "name": "Antalya",
+      "url": "https://www.secretcv.com/is-ilanlari/antalya-is-ilanlari?l=50"
+    },
+    {
+      "name": "Adana",
+      "url": "https://www.secretcv.com/is-ilanlari/adana-is-ilanlari?l=50"
+    },
+    {
+      "name": "Gaziantep",
+      "url": "https://www.secretcv.com/is-ilanlari/gaziantep-is-ilanlari?l=50"
+    },
+    {
+      "name": "Konya",
+      "url": "https://www.secretcv.com/is-ilanlari/konya-is-ilanlari?l=50"
+    },
+    {
+      "name": "Kocaeli",
+      "url": "https://www.secretcv.com/is-ilanlari/kocaeli-is-ilanlari?l=50"
+    },
+    {
+      "name": "Mersin",
+      "url": "https://www.secretcv.com/is-ilanlari/mersin-is-ilanlari?l=50"
+    },
+    {
+      "name": "Kayseri",
+      "url": "https://www.secretcv.com/is-ilanlari/kayseri-is-ilanlari?l=50"
+    },
+    {
+      "name": "Eskisehir",
+      "url": "https://www.secretcv.com/is-ilanlari/eskisehir-is-ilanlari?l=50"
+    },
+    {
+      "name": "Samsun",
+      "url": "https://www.secretcv.com/is-ilanlari/samsun-is-ilanlari?l=50"
+    },
+    {
+      "name": "Diyarbakir",
+      "url": "https://www.secretcv.com/is-ilanlari/diyarbakir-is-ilanlari?l=50"
+    },
+    {
+      "name": "Denizli",
+      "url": "https://www.secretcv.com/is-ilanlari/denizli-is-ilanlari?l=50"
+    },
+    {
+      "name": "Sanliurfa",
+      "url": "https://www.secretcv.com/is-ilanlari/sanliurfa-is-ilanlari?l=50"
+    },
+    {
+      "name": "Adapazari",
+      "url": "https://www.secretcv.com/is-ilanlari/adapazari-is-ilanlari?l=50"
+    },
+    {
+      "name": "Malatya",
+      "url": "https://www.secretcv.com/is-ilanlari/malatya-is-ilanlari?l=50"
+    },
+    {
+      "name": "Kahramanmaras",
+      "url": "https://www.secretcv.com/is-ilanlari/kahramanmaras-is-ilanlari?l=50"
+    },
+    {
+      "name": "Erzurum",
+      "url": "https://www.secretcv.com/is-ilanlari/erzurum-is-ilanlari?l=50"
+    },
+    {
+      "name": "Van",
+      "url": "https://www.secretcv.com/is-ilanlari/van-is-ilanlari?l=50"
+    },
+    {
+      "name": "Batman",
+      "url": "https://www.secretcv.com/is-ilanlari/batman-is-ilanlari?l=50"
+    },
+    {
+      "name": "Elazig",
+      "url": "https://www.secretcv.com/is-ilanlari/elazig-is-ilanlari?l=50"
+    },
+    {
+      "name": "Manisa",
+      "url": "https://www.secretcv.com/is-ilanlari/manisa-is-ilanlari?l=50"
+    },
+    {
+      "name": "Sivas",
+      "url": "https://www.secretcv.com/is-ilanlari/sivas-is-ilanlari?l=50"
+    },
+    {
+      "name": "Tekirdag",
+      "url": "https://www.secretcv.com/is-ilanlari/tekirdag-is-ilanlari?l=50"
+    },
+    {
+      "name": "Balikesir",
+      "url": "https://www.secretcv.com/is-ilanlari/balikesir-is-ilanlari?l=50"
+    },
+    {
+      "name": "Aydin",
+      "url": "https://www.secretcv.com/is-ilanlari/aydin-is-ilanlari?l=50"
+    },
+    {
+      "name": "Hatay",
+      "url": "https://www.secretcv.com/is-ilanlari/hatay-is-ilanlari?l=50"
+    },
+    {
+      "name": "Trabzon",
+      "url": "https://www.secretcv.com/is-ilanlari/trabzon-is-ilanlari?l=50"
+    },
+    {
+      "name": "Mugla",
+      "url": "https://www.secretcv.com/is-ilanlari/mugla-is-ilanlari?l=50"
+    },
+    {
+      "name": "Ordu",
+      "url": "https://www.secretcv.com/is-ilanlari/ordu-is-ilanlari?l=50"
+    },
+    {
+      "name": "Edirne",
+      "url": "https://www.secretcv.com/is-ilanlari/edirne-is-ilanlari?l=50"
+    },
+    {
+      "name": "Afyon",
+      "url": "https://www.secretcv.com/is-ilanlari/afyon-is-ilanlari?l=50"
+    },
+    {
+      "name": "Isparta",
+      "url": "https://www.secretcv.com/is-ilanlari/isparta-is-ilanlari?l=50"
+    },
+    {
+      "name": "Kutahya",
+      "url": "https://www.secretcv.com/is-ilanlari/kutahya-is-ilanlari?l=50"
+    },
+    {
+      "name": "Canakkale",
+      "url": "https://www.secretcv.com/is-ilanlari/canakkale-is-ilanlari?l=50"
+    },
+    {
+      "name": "Kirklareli",
+      "url": "https://www.secretcv.com/is-ilanlari/kirklareli-is-ilanlari?l=50"
+    },
+    {
+      "name": "Corum",
+      "url": "https://www.secretcv.com/is-ilanlari/corum-is-ilanlari?l=50"
+    }
+  ]
+}

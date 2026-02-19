@@ -129,18 +129,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApiScraper.cs" />
-    <Compile Include="ExcelWriter.cs" />
+    <Compile Include="CityScraper.cs" />
     <Compile Include="Models.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Runner.cs" />
-    <Compile Include="Scraper.cs" />
+    <Compile Include="SecretCVExcelWriter.cs" />
+    <Compile Include="SecretCVRunner.cs" />
+    <Compile Include="SecretCVScraper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="cityconfig.json" />
+    <None Include="cityconfig_new.json" />
     <None Include="packages.config" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
