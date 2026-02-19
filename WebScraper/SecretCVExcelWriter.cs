@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace IsinOlsunScraper
+namespace WebScraper
 {
     /// <summary>
     /// SecretCV ilanlarý için Excel yazýcý sýnýfý

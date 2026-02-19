@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace IsinOlsunScraper
+namespace WebScraper
 {
     /// <summary>
     /// SecretCV sitesi için özel scraper sýnýfý.

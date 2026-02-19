@@ -3,7 +3,7 @@ using System.IO;
 using Newtonsoft.Json;
 using System.Linq;
 
-namespace IsinOlsunScraper
+namespace WebScraper
 {
     class Program
     {

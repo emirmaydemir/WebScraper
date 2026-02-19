@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace IsinOlsunScraper
+namespace WebScraper
 {
     /// <summary>
     /// SecretCV sitesinden şehir listesini otomatik çeken sınıf

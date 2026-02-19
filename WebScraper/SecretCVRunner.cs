@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IsinOlsunScraper
+namespace WebScraper
 {
     /// <summary>
     /// SecretCV tarama iþlemlerini yöneten ana sýnýf

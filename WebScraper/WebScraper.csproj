@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{892F74B8-3227-4943-9029-B4A909F418D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IsinOlsunScraper</RootNamespace>
-    <AssemblyName>IsinOlsunScraper</AssemblyName>
+    <RootNamespace>WebScraper</RootNamespace>
+    <AssemblyName>WebScraper</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

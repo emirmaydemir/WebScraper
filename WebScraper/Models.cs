@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace IsinOlsunScraper
+namespace WebScraper
 {
     // --- City Configuration Models ---
     public class CityConfigRoot
